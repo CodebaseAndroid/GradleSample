@@ -1,0 +1,1 @@
+/Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/classes/debug
