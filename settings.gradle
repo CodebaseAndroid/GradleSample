@@ -1,0 +1,2 @@
+include ":libraries:facebook:facebook"
+include ":libraries:LocationGpsTest"

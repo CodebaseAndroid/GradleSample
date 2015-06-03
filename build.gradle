@@ -25,6 +25,10 @@ repositories {
 }
 
 dependencies {
+    
+    compile project(':libraries:facebook:facebook')
+    compile project(':libraries:LocationGpsTest')
+    
     compile 'joda-time:joda-time:2.7'
     compile 'com.nineoldandroids:library:2.4.0+'
 }

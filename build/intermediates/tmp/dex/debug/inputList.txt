@@ -1,3 +1,9 @@
 /Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/classes/debug
+/Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-d83e2a60ebdc478ec5bfbc15bdefbce605a320a3.jar
+/Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/pre-dexed/debug/classes-826ce49f2b36815578531b2b134cb2eeabc9ce6e.jar
+/Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-af74e6e9c449251f073d4cd4b220842c80c01662.jar
 /Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/pre-dexed/debug/library-2.4.0-d8175925641fb49e8796b1201ff1baba61c12656.jar
+/Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-0c0c78408ce4efbc3644dde3a9205d0091a57e03.jar
+/Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/pre-dexed/debug/classes-b4342f7ee2888a12084ec65079324ba0615b2c08.jar
+/Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/pre-dexed/debug/classes-bff8d216721d0e43371e8fbc7292d8aff7d33439.jar
 /Users/aromal/Documents/Developer/Android/Examples/SampleGradle/build/intermediates/pre-dexed/debug/joda-time-2.7-44fcdf8c85bb22b1ba062a23dfa27e3b86b93c55.jar
