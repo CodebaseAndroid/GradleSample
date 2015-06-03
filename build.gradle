@@ -19,3 +19,16 @@ android {
         }
     }
 }
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'joda-time:joda-time:2.7'
+    compile 'com.nineoldandroids:library:2.4.0+'
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.2.1'
+}

@@ -2,6 +2,7 @@ package com.codebase;
 
 import android.app.Activity;
 import android.os.Bundle;
+import com.nineoldandroids.animation.*;
 
 public class MainActivity extends Activity
 {
@@ -11,5 +12,7 @@ public class MainActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+
+
     }
 }
